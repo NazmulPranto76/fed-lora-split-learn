@@ -74,8 +74,6 @@ pip install torch==2.11.0+cu128 --index-url https://download.pytorch.org/whl/cu1
 pip install -r requirements.txt
 ```
 
-> **Security note:** This project does NOT use `lightning` or `pytorch-lightning`. Versions 2.6.2–2.6.3 of those packages had a known PyPI supply-chain incident. All training uses native PyTorch.
-
 ### 2. Run TF-IDF baseline (no GPU needed)
 
 ```bash
