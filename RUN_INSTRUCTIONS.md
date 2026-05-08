@@ -10,8 +10,6 @@
 | RAM | 16GB | 8GB |
 | Python | 3.10–3.12 | 3.9+ |
 
-> **Security note:** Do NOT install `lightning` or `pytorch-lightning` — versions 2.6.2–2.6.3 had a known PyPI supply-chain incident. This project uses only native PyTorch.
-
 ---
 
 ## Installation
